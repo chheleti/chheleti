@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chheleti
-- 👀 I’m interested in learning
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning SDET
 - 💞️ I’m looking to collaborate on people
 - 📫 How to reach me You can Email me
