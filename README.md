@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chheleti
+- 👋 Hi, I’m "Tanjid Ibna Akid"
 - 👀 I’m interested in Software Development Engineer in Test
 - 🌱 I’m currently learning SDET
 - 💞️ I’m looking to collaborate on Projects specially related to Software Testing
