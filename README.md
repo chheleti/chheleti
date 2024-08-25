@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @chheleti
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in Software Development Engineer in Test
 - 🌱 I’m currently learning SDET
-- 💞️ I’m looking to collaborate on people
-- 📫 To reach me You can Email me
+- 💞️ I’m looking to collaborate on Projects specially related to Software Testing
+- 📫 Reach me at tanjidhasan41@gmail.com
 - 😄 Pronouns: he / him / his
-- ⚡ Fun fact: I have a great sense of humor
 
 <!---
 chheleti/chheleti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
